@@ -1,6 +1,7 @@
 # Java-Core
 This Repository is about all the basic practice code snippets for Core Java
- 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> 
+
 <h1 align="center">
   <br>
   <a href="https://github.com/R42OR/Java-Core"><img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" width="200"></a>
@@ -67,4 +68,9 @@ This Module requires the following packages:
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRpGSjGqcJMbNMsdDlHdslDHcFCvPTqFrDxVpwmxwSGdhFpFRshWBTkdTNJXBjqfJxLkB">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="60">
 </a>
+</p>
+
+<p>
+	<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rajat-sinha-522936140" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajat-sinha-522936140?trk=profile-badge">Rajat Sinha</a></div>
+              
 </p>
