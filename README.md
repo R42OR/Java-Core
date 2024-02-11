@@ -70,7 +70,7 @@ This Module requires the following packages:
 </a>
 </p>
 
-<p>
+<div>
 	<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rajat-sinha-522936140" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajat-sinha-522936140?trk=profile-badge">Rajat Sinha</a></div>
               
-</p>
+</div>
