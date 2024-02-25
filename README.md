@@ -4,7 +4,7 @@ This Repository is about all the basic practice code snippets for Core Java
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/R42OR/Java-Core"><img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" width="200"></a>
+  <a href="https://github.com/R42OR/Java-Core"><img src="https://www.kiya.ai/wp-content/uploads/2023/01/Mobile-Banking.png" width="200"></a>
   <br>
   Java Practice Series
   <br>
